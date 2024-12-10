@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub Profile! I'm Omoniyi Olumide, a passionate and innovative web developer with a knack for turning ideas into interactive digital experiences.
+👋 Welcome to my GitHub Profile! I'm **Omoniyi Olumide**, a passionate and innovative web developer with a knack for turning ideas into interactive digital experiences.
 
 💡 With a creative mindset and a problem-solving attitude, I thrive on crafting clean, efficient, and user-friendly web solutions. My toolbox includes a wide array of technologies such as HTML, CSS, JavaScript (ES6+), and I'm proficient in popular frameworks like React , TailwindCss and Bootstrap. I'm also no stranger to backend technologies like Node.js and databases such as MongoDB.
 
@@ -12,7 +12,7 @@
 
 let's build the web of tomorrow, today! 🌐💻🚀
 
-omoniyiolumide77@gmail.com
+Message me at my [Gmail](omoniyiolumide77@gmail.com)
 
 <!---
 Olumide777/Olumide777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
