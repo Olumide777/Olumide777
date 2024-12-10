@@ -12,7 +12,7 @@
 
 let's build the web of tomorrow, today! 🌐💻🚀
 
-Message me at my [Gmail](omoniyiolumide77@gmail.com)
+Message me at <omoniyiolumide77@gmail.com>
 
 <!---
 Olumide777/Olumide777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
